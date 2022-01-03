@@ -1,4 +1,4 @@
-package com.gfl;
+package com.gfl.builder;
 
 public class MyProduct {
   
